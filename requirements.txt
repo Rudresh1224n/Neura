@@ -6,3 +6,4 @@ mediapipe
 numpy
 python-dotenv
 gtts
+python-dotenv

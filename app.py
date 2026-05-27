@@ -5,6 +5,8 @@ from cheating_detection import detect_cheating
 from gtts import gTTS
 import tempfile
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 resume_text_global = ""
 
