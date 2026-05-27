@@ -1,0 +1,8 @@
+gradio
+openai
+pymupdf
+opencv-python-headless
+mediapipe
+numpy
+python-dotenv
+gtts
